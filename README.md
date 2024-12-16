@@ -49,8 +49,8 @@
 
 ![Screenshot 2024-12-04 103141](https://github.com/user-attachments/assets/e8894039-5515-4b8f-8aae-3b7e0822ae8d)
 
-### Name: KAILASH PRABHU.S
-### Register Number: 24013672
+### Name: Thamizharasi G
+### Register Number: 24001123
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
